@@ -12,8 +12,6 @@ __pycache__/
 # Streamlit cache
 .streamlit/
 
-# Documents / Uploaded Files
-data_files/
 
 # OS
 Thumbs.db
