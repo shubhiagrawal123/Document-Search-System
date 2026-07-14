@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Documents / Uploaded Files
+data_files/
+
+# OS
+Thumbs.db
+.DS_Store
