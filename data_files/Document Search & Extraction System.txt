@@ -1,0 +1,18 @@
+Document Search & Extraction System
+
+This is a sample text file.
+
+Technologies Used:
+- Python
+- Streamlit
+- PDF Extraction
+- DOCX Extraction
+- PPTX Extraction
+- Excel Processing
+
+Keywords:
+AI
+Machine Learning
+Database
+Python
+Streamlit
